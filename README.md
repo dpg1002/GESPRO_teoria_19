@@ -6,4 +6,4 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 1. [Marijuán Santamaría, Humberto](https://github.com/humbertoms99).
 2. [Arasti Blanco, Roberto](https://github.com/RobertoArastiBlanco)
 3. [Piñero Gútiez, Diego](https://github.com/dpg1002)
-4. [García Bilbao, Miguel Alejandro]
+4. [García Bilbao, Miguel Alejandro](https://github.com/miguelgcb)
