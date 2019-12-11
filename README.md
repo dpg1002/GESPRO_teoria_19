@@ -10,3 +10,5 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 5. [Camarero Alonso, Enrique](https://github.com/eca1001)
 6. [Franco Peciña, Natalia](https://github.com/natalia295)
 7. [Fuente Robles, Alberto](https://github.com/alberto-fuente)
+8. [Alcuaz Temiño, Guillermo](https://github.com/guillealcuaz)
+
