@@ -3,3 +3,4 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 
 
 ## Grupos
+1. [Humberto Marijuán Santamaría](https://github.com/humbertoms99).
