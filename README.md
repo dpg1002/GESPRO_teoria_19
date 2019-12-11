@@ -9,4 +9,4 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 4. [García Bilbao, Miguel Alejandro](https://github.com/miguelgcb)
 5. [Camarero Alonso, Enrique](https://github.com/eca1001)
 6. [Franco Peciña, Natalia](https://github.com/natalia295)
-7. [Encabo Contreras, Martín](https://github.com/mecyc)
+7. [Fuente Robles, Alberto](https://github.com/albertofuente)
